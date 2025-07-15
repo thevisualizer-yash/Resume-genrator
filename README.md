@@ -23,8 +23,11 @@ Object-Oriented Programming (OOP)
 
 How to Use
 Install fpdf:
+
 pip install fpdf
+
 Clone the repository:
+
 https://github.com/thevisualizer-yash/Resume-genrator/tree/main
 
 Edit your content:
