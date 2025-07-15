@@ -31,17 +31,24 @@ Clone the repository:
 https://github.com/thevisualizer-yash/Resume-genrator/tree/main
 
 Edit your content:
+
 Open resume_generator.py
+
 Update resume_text and header methods with your details
 
 Run the script:
+
 python resume_generator.py
+
 Your PDF will be generated in the same folder as Yash_Resume_Readable.pdf (or your custom filename)
 
 
 Use Cases:
+
 Internship and job applications
+
 Resume customization with Python logic
+
 Bulk resume creation (with input from files or forms)
 
  Resume Preview:
